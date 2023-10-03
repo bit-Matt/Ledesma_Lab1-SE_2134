@@ -1,0 +1,3 @@
+Hans 120
+Chloe 235
+Raf 100
